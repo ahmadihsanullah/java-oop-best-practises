@@ -1,0 +1,14 @@
+Dalam paradigma pemrograman berorientasi objek, 
+"composition" merujuk pada cara objek-objek dibangun menggunakan 
+objek-objek lain sebagai bagian dari komposisi mereka. 
+Sebuah objek dapat memiliki objek-objek lain sebagai atribut atau komponen, 
+dan ini membentuk hubungan yang lebih kuat antara objek-objek tersebut.
+
+Hal ini berbeda dengan pewarisan (inheritance), di mana objek 
+dapat mewarisi sifat-sifat dari kelas lain.
+Contoh: Jika Anda memiliki kelas "Car" dan kelas "Engine",
+Anda dapat menggambarkan hubungan komposisi dengan membuat objek "Engine"
+sebagai bagian dari objek "Car". Sebagai contoh, 
+"Car" memiliki atribut "engine" yang merujuk pada objek "Engine".
+
+ini adalah contoh penambahan fitur tanpa inheritance
